@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">cascad.io</title>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2014-11-06T03:24:28-05:00</updated>
+<id>/</id>
+<author>
+  <name>David Smith</name>
+  <uri>/</uri>
+  <email>dmsmitty30@gmail.com</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[Exploring Kaggle Data with Google BigQuery]]></title>
+ <link rel="alternate" type="text/html" href="/intro/misc/exploring-kaggle-data-with-google-bigquery/" />
+  <id>/intro/misc/exploring-kaggle-data-with-google-bigquery</id>
+  <published>2014-11-05T18:50:00-05:00</published>
+  <updated>2014-11-05T18:50:00-05:00</updated>
+  <author>
+    <name>David Smith</name>
+    <uri></uri>
+    <email>dmsmitty30@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;I recently started competing in Kaggle competitions, mostly as a way to build my own understanding of predictive analytics and machine learning. One of the most important steps in any Kaggle competition is exploratory analysis. Before you start building models it’s a good idea to spend some time getting to know the dataset you’re working with. &lt;/p&gt;
+
+&lt;p&gt;Problem is Kaggle datasets can be massive. If you, like me tend to do most of your work on a laptop, running aggregations on a 12GB file can be difficult and slow.&lt;/p&gt;
+
+&lt;h2 id=&quot;create-a-google-apis-account-and-activate-services&quot;&gt;Create a Google APIs account and activate services&lt;/h2&gt;
+
+&lt;p&gt;Talk about how to go about setting up an account. Be brief. link to Google APIs site.
+Show an example “hello world” query using the Shakespear dataset.&lt;/p&gt;
+
+&lt;h2 id=&quot;optional-start-up-a-google-compute-engine-virtual-machine&quot;&gt;(optional) Start up a Google Compute Engine Virtual Machine&lt;/h2&gt;
+&lt;p&gt;Spin up a Virtual Machine.
+Install gsutil, bq, etc.
+Explain why you would want to do this.&lt;/p&gt;
+
+&lt;h2 id=&quot;upload-data&quot;&gt;Upload Data&lt;/h2&gt;
+&lt;p&gt;Use the Avazu dataset. show how to create schema and upload using bq command line tool.&lt;/p&gt;
+
+&lt;h2 id=&quot;explore&quot;&gt;Explore!&lt;/h2&gt;
+
+&lt;p&gt;Walk thru a 2-3 queries.&lt;/p&gt;
+
+&lt;h2 id=&quot;other-options&quot;&gt;Other options&lt;/h2&gt;
+
+&lt;p&gt;In future post I’ll talk about ways to visually explore this dataset using Tableau.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/intro/misc/exploring-kaggle-data-with-google-bigquery/&quot;&gt;Exploring Kaggle Data with Google BigQuery&lt;/a&gt; was originally published by David Smith at &lt;a href=&quot;&quot;&gt;cascad.io&lt;/a&gt; on November 05, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Is this thing on?]]></title>
+ <link rel="alternate" type="text/html" href="/intro/misc/is-this-thing-on/" />
+  <id>/intro/misc/is-this-thing-on</id>
+  <published>2014-11-05T18:37:00-05:00</published>
+  <updated>2014-11-05T18:37:00-05:00</updated>
+  <author>
+    <name>David Smith</name>
+    <uri></uri>
+    <email>dmsmitty30@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;This site is an experiment. Over the course of the next several days (and hopefully well beyond that) I’ll be using this site as a forum for presenting my experiences and ideas about data. Not sure where this will go but we’ll see.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/intro/misc/is-this-thing-on/&quot;&gt;Is this thing on?&lt;/a&gt; was originally published by David Smith at &lt;a href=&quot;&quot;&gt;cascad.io&lt;/a&gt; on November 05, 2014.&lt;/p&gt;</content>
+</entry>
+
+</feed>
