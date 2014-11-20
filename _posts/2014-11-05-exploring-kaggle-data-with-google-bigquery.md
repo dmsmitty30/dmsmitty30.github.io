@@ -6,7 +6,7 @@ categories: intro misc
 ---
 One of the most important steps in any Kaggle competition is exploratory analysis. Before you start building models it's a good idea to spend some time getting to know the dataset you're working with. 
 
-Problem is Kaggle datasets can be massive. If you, like me tend to do most of your work on a laptop, running aggregations on a 12GB file can be difficult and slow.
+The problem is Kaggle datasets can be massive. If you, like me tend to do most of your work on a laptop, running aggregations on a 12GB file can be difficult and slow.
 
 In this article I'll show you how Google BigQuery can be used as part of your Kaggle workflow to quickly analyze, sample, and run statistics on large datasets such as those encountered in Kaggle competitions. 
 
