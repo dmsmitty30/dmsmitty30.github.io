@@ -4,8 +4,7 @@ gem 'jekyll'
 gem 'coderay'
 gem 'sass', '3.4.5'
 gem 'octopress', '~> 3.0.0.rc.12'
-
-source 'https://rubygems.org'
+gem 'jekyll-auth', '~> 0.5.2'
 
 require 'json'
 require 'open-uri'

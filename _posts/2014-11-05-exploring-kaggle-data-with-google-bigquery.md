@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Exploring Kaggle Data with Google BigQuery"
+summary: A quick tutorial on how to run very fast SQL queries on very big datasets, using Kaggle data as an example.
 date:   2014-11-05 23:50:00
 categories: intro misc
 ---

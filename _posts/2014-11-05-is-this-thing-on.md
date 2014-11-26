@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Is this thing on?"
+title:  "Mic Check"
+summary: Is this Thing on?
 date:   2014-11-05 23:37:00
 categories: intro misc
 ---
