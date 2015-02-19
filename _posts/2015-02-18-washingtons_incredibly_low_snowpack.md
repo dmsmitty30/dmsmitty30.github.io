@@ -14,5 +14,5 @@ The webcam site [ZeitCam.com](https://zeitcam.com/) has been capturing and archi
 
 Looking back over the years you can see that 2015 is quite an anomaly. Check out these images from February 17 of years past, going back to 2011. This year, Hurricane Ridge is not exactly the winter wonderland we're used to seeing.
 
-![hurricaneridge_2011-2015](https://cloud.githubusercontent.com/assets/6886403/6262407/23ce3998-b7b7-11e4-8b03-9bb514a95e92.jpg "Hurricane Ridge Snowfall Comparison 2011-2015")
+![hurricaneridge_2011-2015](https://cloud.githubusercontent.com/assets/6886403/6262407/23ce3998-b7b7-11e4-8b03-9bb514a95e92.jpg =448x1683 "Hurricane Ridge Snowfall Comparison 2011-2015")
 
