@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Washington State's Historically Low Snowpack Illustrated with Webcam Images"
+title:  "Historical Webcam images of Hurricane Ridge Show Severity of 2015 Snowpack Deficit"
 summary: 
 date:   2015-02-19 08:00:00
 categories: weather webcams
