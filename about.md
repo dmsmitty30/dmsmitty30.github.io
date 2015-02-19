@@ -6,6 +6,5 @@ permalink: /about/
 
 This blog is a forum for presenting ideas and news around the field of data science. I cover analytics, data visualization, data hacking with a focus on topics related to the Pacific Northwest, which is where I make m home.
  
-Built using [Jekyll](http://jekyllrb.com) and the Pixyll theme by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+Built using [Jekyll](http://jekyllrb.com)
 
