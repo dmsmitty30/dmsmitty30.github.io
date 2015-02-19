@@ -5,7 +5,7 @@ summary:
 date:   2015-02-19 08:00:00
 categories: weather webcams
 ---
-An unusually warm & dry winter in Washington state has lead to an extremely meager mountain snowpack. Some places are worse
+An unusually warm & dry winter in Washington state has led to an extremely meager mountain snowpack. Some places are worse
 than others. Take for instance Hurricane Ridge. At 5,240 feet in the Olympic Mountain Range, This spot gets on average 400+ 
 inches of snowfall per year, but as of today, the landscape is about what you would expect to see in late September or October.
 
