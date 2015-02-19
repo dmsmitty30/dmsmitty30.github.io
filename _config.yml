@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "http://cascad.io"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-59916667-1
 
 # Optional features
 animated:           false
@@ -17,7 +17,7 @@ show_post_footers:  false
 # Social icons
 show_social_icons: true
 github_username:
-twitter_username:
+twitter_username: 
 google_plus_id:
 linkedin_username:
 bitcoin_url:
